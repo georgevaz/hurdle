@@ -1,0 +1,77 @@
+[33mcommit d194cd4df6c6ecba2ba52a0ec03872919aa893ab[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sun Oct 8 17:48:22 2023 -0400
+
+    add cube graphic to cube blueprint
+
+[33mcommit b7d696b97d052376d07cfe1bd24eea1d3d44ca54[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sun Oct 8 17:38:30 2023 -0400
+
+    add cube
+
+[33mcommit eaeda98793cf8c42918af2aeed39fdac6bef2025[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sun Oct 8 17:37:30 2023 -0400
+
+    add cube
+
+[33mcommit 7b7b4061afef0389d0ab9a47668d06a5a2fd03fb[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sun Oct 8 16:14:09 2023 -0400
+
+    add action map
+
+[33mcommit 874743ccd85c43d7fc55402f1871b9ed5ca3c3ed[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sun Oct 8 16:08:33 2023 -0400
+
+    add action maps
+
+[33mcommit 5f0e5fe100c421f1fc278b31ec0480dae62a8034[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sat Jul 29 19:14:10 2023 -0400
+
+    add objects to world
+
+[33mcommit 34dde79e3cb0cbbde2b2e83c55f0590834a7ceab[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sat Jul 29 18:57:52 2023 -0400
+
+    change config
+
+[33mcommit fd5f8eac5302a011ad2b8770291c77af267cffce[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sat Jul 29 18:32:40 2023 -0400
+
+    something else
+
+[33mcommit 8277bca9b75d6e066bf8f5b1a52a38c962b08436[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sat Jul 29 18:29:41 2023 -0400
+
+    chang light
+
+[33mcommit 61e238120b79ad45138cd6ae91730863aac25924[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sat Jul 29 18:12:24 2023 -0400
+
+    LFS attributes
+
+[33mcommit a3ee2352017063add6da0449d716411ef9fd98b6[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sat Jul 29 18:11:29 2023 -0400
+
+    this is a commit
+
+[33mcommit 0d35c6295e1373bfa16e2e793710cddd351d433f[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sat Jul 29 17:57:29 2023 -0400
+
+    Remove landscape
+
+[33mcommit 25168ae4becbb0480de2d5932d1f161b0f4bad8b[m
+Author: George Vazquez <george.h.vazquez@gmail.com>
+Date:   Sat Jul 29 17:49:57 2023 -0400
+
+    Initial commit
